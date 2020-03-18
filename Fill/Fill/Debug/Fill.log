@@ -1,8 +1,2 @@
 ﻿  Fill.cpp
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(62,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(66,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(72,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(76,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(100,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Programs\VS\Programs\Fill\Fill\Fill.cpp(104,23): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
   Fill.vcxproj -> C:\Programs\VS\Programs\Fill\Debug\Fill.exe
